@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1776768322757",
+    "name": "test",
+    "email": "test@test.com",
+    "password": "$2b$10$OqNTtHftf4DLH2BmjvTGK.0f7GS6gKnHeeWKLZX6cI2vvPPjaGokC",
+    "createdAt": "2026-04-21T10:45:22.930Z"
+  },
+  {
+    "id": "1776768698920",
+    "name": "LALEMI",
+    "email": "lalemijo@gmail.com",
+    "password": "$2b$10$HDIdFUDHYqdZM80BEjEsZeStRso6rA.ZMSG7UhfHhDpFk.HjcLxzC",
+    "createdAt": "2026-04-21T10:51:39.052Z"
+  },
+  {
+    "id": "1776768959738",
+    "name": "ALADJI",
+    "email": "j.lecinq@gmail.com",
+    "password": "$2b$10$pbOSBttjicqCdDiQYe5Vx.mc6Qe7RkDAq1BgnEJweHMfHiWolK73e",
+    "createdAt": "2026-04-21T10:55:59.855Z"
+  }
+]
